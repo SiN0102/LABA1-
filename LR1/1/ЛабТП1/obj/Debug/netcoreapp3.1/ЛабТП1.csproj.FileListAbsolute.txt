@@ -1,0 +1,4 @@
+C:\Users\nikef\OneDrive\Рабочий стол\LR1\1\ЛабТП1\obj\Debug\netcoreapp3.1\ЛабТП1.csprojAssemblyReference.cache
+C:\Users\nikef\OneDrive\Рабочий стол\LR1\1\ЛабТП1\obj\Debug\netcoreapp3.1\ЛабТП1.AssemblyInfoInputs.cache
+C:\Users\nikef\OneDrive\Рабочий стол\LR1\1\ЛабТП1\obj\Debug\netcoreapp3.1\ЛабТП1.AssemblyInfo.cs
+C:\Users\nikef\OneDrive\Рабочий стол\LR1\1\ЛабТП1\obj\Debug\netcoreapp3.1\ЛабТП1.csproj.CoreCompileInputs.cache
